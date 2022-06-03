@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Andrade</h1>
 <h3 align="center"> from Brazil</h3>
 
-- 💬 Ask me about **linux, windows, bash**
+- 💬 Ask me about **linux, windows, bash, mysql, firebird, unifi, zabbix, telegram API, grafana**
 
 - 📫 How to reach me **charles-j-1@hotmail.com**
 
